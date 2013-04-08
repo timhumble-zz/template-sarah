@@ -22,23 +22,24 @@ li a {
 /* line 28, ../sass/screen.scss */
 .topbar div.container {
   background: rgba(255, 255, 255, 0.8);
+  margin-top: 0px;
 }
-/* line 33, ../sass/screen.scss */
+/* line 34, ../sass/screen.scss */
 .topbar .brand {
   font-family: "centeria_script_demoregular", Arial, Helvetica, sans-serif;
   font-weight: normal;
   text-decoration: none;
   color: #72bfe8;
 }
-/* line 41, ../sass/screen.scss */
+/* line 42, ../sass/screen.scss */
 .topbar input {
   background: #fa73a9;
 }
-/* line 45, ../sass/screen.scss */
+/* line 46, ../sass/screen.scss */
 .topbar ul {
   padding-top: 12px;
 }
-/* line 49, ../sass/screen.scss */
+/* line 50, ../sass/screen.scss */
 .topbar li {
   font-family: "Cookie", cursive;
   font-size: 1.2em;
@@ -46,13 +47,13 @@ li a {
   color: #32394b;
 }
 @media (min-width: 30em) {
-  /* line 49, ../sass/screen.scss */
+  /* line 50, ../sass/screen.scss */
   .topbar li {
     font-size: 1.5em;
   }
 }
 
-/* line 63, ../sass/screen.scss */
+/* line 64, ../sass/screen.scss */
 .container {
   *zoom: 1;
   max-width: 19em;
@@ -70,7 +71,7 @@ li a {
   clear: both;
 }
 @media (min-width: 30em) {
-  /* line 63, ../sass/screen.scss */
+  /* line 64, ../sass/screen.scss */
   .container {
     max-width: 39em;
     padding-left: 1em;
@@ -87,7 +88,7 @@ li a {
   }
 }
 
-/* line 75, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 .container {
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
@@ -95,12 +96,12 @@ li a {
   background: rgba(255, 255, 255, 0.8);
 }
 
-/* line 81, ../sass/screen.scss */
+/* line 82, ../sass/screen.scss */
 body {
   background-image: url('/images/bg.png?1365344115');
 }
 
-/* line 86, ../sass/screen.scss */
+/* line 87, ../sass/screen.scss */
 #main_content_place {
   min-height: 300px;
   font-family: "Cookie", cursive;
@@ -108,7 +109,7 @@ body {
   color: #32394b;
 }
 
-/* line 94, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 img {
   max-width: 100%;
   max-height: 100%;
@@ -117,49 +118,49 @@ img {
   margin-right: auto;
 }
 
-/* line 101, ../sass/screen.scss */
+/* line 102, ../sass/screen.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "centeria_script_demoregular", Arial, Helvetica, sans-serif;
   font-weight: normal;
   color: #32394b;
 }
 
-/* line 107, ../sass/screen.scss */
+/* line 108, ../sass/screen.scss */
 h1 {
   font-size: 3.5em;
   text-align: center;
   line-height: 0.8em;
   padding-top: 20px;
 }
-/* line 113, ../sass/screen.scss */
+/* line 114, ../sass/screen.scss */
 h1 span {
   display: block;
 }
 
-/* line 118, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 h2 {
   margin-bottom: 5px;
 }
-/* line 122, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 h2 a {
   color: #fa73a9;
 }
 
-/* line 129, ../sass/screen.scss */
+/* line 130, ../sass/screen.scss */
 h4 {
   margin-top: 5px;
 }
-/* line 131, ../sass/screen.scss */
+/* line 132, ../sass/screen.scss */
 h4 span {
   color: #72bfe8;
 }
 
-/* line 136, ../sass/screen.scss */
+/* line 137, ../sass/screen.scss */
 b {
   color: #32394b;
 }
 
-/* line 142, ../sass/screen.scss */
+/* line 143, ../sass/screen.scss */
 footer {
   font-family: "centeria_script_demoregular", Arial, Helvetica, sans-serif;
   font-size: 1.2em;
